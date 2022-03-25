@@ -14,12 +14,7 @@ author: Patrick Fenn
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  Portfolio: "portfoloio"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
