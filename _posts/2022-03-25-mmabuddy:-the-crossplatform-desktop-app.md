@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MMABuddy: The cross-platform MMA App
+title: MMABuddy The Cross-platform MMA App
 subtitle: Helpful app for MMA fans that will notify users of upcoming events.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
