@@ -3,7 +3,7 @@ layout: post
 title: MMABuddy - The Cross Platform desktop app for MMA fans!
 subtitle: This app was coded in python utilizing the kivy library. 
 cover-img: /asssets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/mma.jpeg
 share-img: /assets/img/path.jpg
 tags: [python, kivy]
 ---
