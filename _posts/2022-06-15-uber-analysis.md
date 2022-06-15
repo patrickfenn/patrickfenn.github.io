@@ -3,7 +3,7 @@ layout: post
 title: Uber Analysis - A java app that informs users of the busiest times and locations within the Uber App.
 subtitle: I analyzed an uber pickup location dataset from kaggle. 
 cover-img: /asssets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/uber.jpeg
 share-img: /assets/img/path.jpg
 tags: [java,data,anaylsis,science,uber,kaggle]
 ---
