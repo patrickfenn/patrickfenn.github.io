@@ -3,7 +3,7 @@ layout: post
 title: Google Search Clone - A search engine that utilizes Lucene and our own Web Crawler!
 subtitle: A search engine made by my team in our Info Retreival class.
 cover-img: /asssets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/google.jpeg
 share-img: /assets/img/path.jpg
 tags: [java,lucene,web,search,engine,spring,boot,python,beautiful,soup]
 ---
