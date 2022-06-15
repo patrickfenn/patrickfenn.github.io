@@ -14,6 +14,7 @@ author: Patrick Fenn
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Resume: "https://raw.githubusercontent.com/patrickfenn/patrickfenn.github.io/master/assets/img/resume.png"
   Github: "https://github.com/patrickfenn"
 # --- Logo --- #
 
