@@ -3,7 +3,7 @@ layout: post
 title: Shop Database - Java Console app for User orders. 
 subtitle: App that interfaces with Postgresql via JDBC.
 cover-img: /asssets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/shop.png
 share-img: /assets/img/path.jpg
 tags: [java,jdbc,postgresql,database,sql]
 ---
