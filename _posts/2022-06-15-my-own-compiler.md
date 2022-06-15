@@ -3,7 +3,7 @@ layout: post
 title: Compiler - My own compiler for a made up language.
 subtitle: I used Bison and flex to implement this compiler.
 cover-img: /asssets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/compiler.jpeg
 share-img: /assets/img/path.jpg
 tags: [compiler,grammar,dfa,semantics,c++]
 ---
